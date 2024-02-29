@@ -1,4 +1,3 @@
-# Ryan Kolano
+# Hi there, I'm Ryan Kolano
 
-**`Senior Computer Science Student @ UCF`**
-
+## I'm a senior computer science student at UCF. 
