@@ -1,7 +1,6 @@
-### Hi there 👋
+# II-KOYA-II
 
-<!--
-**ll-KOYA-ll/ll-KOYA-ll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Senior Computer Science Student @ UCF`**
 
 Here are some ideas to get you started:
 
