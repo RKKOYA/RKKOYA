@@ -8,6 +8,9 @@ every opportunity to deepen my understanding and expand my skill set. I am curre
 machine learning and cybersecurity and want to strive to become knowledgable in those fields. 
 
 
+##  Let's Connect!
+
+
 ## :handbag: Languages and Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" alt="C" align="left" width=40px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" align="left" width=40px/>
@@ -48,5 +51,5 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ll-KOYA-ll&show_icons=true&theme=radical"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll-KOYA-ll&layout=compact"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll-KOYA-ll&layout=compact&theme=radical"/>
 </a>
