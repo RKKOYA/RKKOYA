@@ -6,3 +6,11 @@ have immersed myself in the ever-evolving landscape of technology, eagerly explo
 trends and advancements. From attending student clubs to participating in projects, I've embraced 
 every opportunity to deepen my understanding and expand my skill set. I am currently interested in
 machine learning and cybersecurity and want to strive to become knowledgable in those fields. 
+
+## :book: What I'm Learning Right Now
+* Introduction to Malware Analysis & Reverse Engineering
+* Programming Languages
+* Enterprise Computing
+* Senior Design II
+
+## 
