@@ -44,4 +44,4 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 * Senior Design II
 
 ## :chart_with_upwards_trend: My GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-KOYA-ll&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ll-KOYA-ll&show_icons=true&theme=radical)
