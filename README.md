@@ -8,7 +8,10 @@ every opportunity to deepen my understanding and expand my skill set. I am curre
 machine learning and cybersecurity and want to strive to become knowledgable in those fields. 
 
 
-##  Let's Connect!
+## :telephone_receiver: Let's Connect!
+<a href="https://www.linkedin.com/in/ryankolano/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="left" width=70px/>
+<a/>
 
 
 ## :handbag: Languages and Tools
