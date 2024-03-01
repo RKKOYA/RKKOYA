@@ -8,6 +8,9 @@ every opportunity to deepen my understanding and expand my skill set. I am curre
 machine learning and cybersecurity and want to strive to become knowledgable in those fields. 
 
 
+## :handbag: Languages and Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+
 
 ## :book: What I'm Learning Right Now
 * Introduction to Malware Analysis & Reverse Engineering
@@ -15,4 +18,3 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 * Enterprise Computing
 * Senior Design II
 
-## 
