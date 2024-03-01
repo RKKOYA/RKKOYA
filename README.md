@@ -70,4 +70,4 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll-KOYA-ll&layout=compact&theme=radical&count_private=true"/>
 </a>
-![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=dark)
+![Leetcode Stats](https://leetcard.jacoblin.cool/RKOYA?theme=dark)
