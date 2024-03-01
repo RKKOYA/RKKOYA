@@ -12,6 +12,10 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <a href="https://www.linkedin.com/in/ryankolano/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="left" width=70px/>
 <a/>
+<br/>
+<br/>
+<br/>
+<br/>
 
 
 ## :handbag: Languages and Tools
