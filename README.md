@@ -7,6 +7,8 @@ trends and advancements. From attending student clubs to participating in projec
 every opportunity to deepen my understanding and expand my skill set. I am currently interested in
 machine learning and cybersecurity and want to strive to become knowledgable in those fields. 
 
+
+
 ## :book: What I'm Learning Right Now
 * Introduction to Malware Analysis & Reverse Engineering
 * Programming Languages
