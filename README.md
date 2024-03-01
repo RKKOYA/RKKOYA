@@ -52,11 +52,11 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 ## :book: What I'm Learning Right Now @ UCF
 * **Introduction to Malware Analysis & Reverse Engineering**
   * This introduces me to various tools that are used to analyze malware at a static/dynamic level. I was always the paranoid type when it comes to knowing if my computer was infected and so this class allows me to not only know what happens to a computer when it is infected with malware but also to help better secure devices for others.
-* Programming Languages
+* **Programming Languages**
   * A class that introduces various programming languages (Haskell, JavaScript, TypeScript, C++, C#). I have always wanted to learn C++ as I have learned how to use C very early on in my academic career and found it to be solid programming language. I would like to expand on this language since I still learn new things about it to this day.
-* Enterprise Computing
+* **Enterprise Computing**
   * I am taking this class to learn how Java is used by so many organizations and understand GUI application development. My last project involved me connecting my Java application to a MySQL database and submitting queries from various client users from the frontend.
-* Senior Design II
+* **Senior Design II**
   * The big one! This is my capstone course at UCF and it is where the research and time spent planning in Senior Design I is being put into motion. This is where my sponsor gets to see how we develop their solution and perform numerous presentations on our work.
 
 
