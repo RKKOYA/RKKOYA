@@ -15,7 +15,6 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <br/>
 <br/>
 <br/>
-<br/>
 
 
 ## :handbag: Languages and Tools
