@@ -50,7 +50,7 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 
 
 ## :book: What I'm Learning Right Now @ UCF
-* Introduction to Malware Analysis & Reverse Engineering
+* **Introduction to Malware Analysis & Reverse Engineering**
   * This introduces me to various tools that are used to analyze malware at a static/dynamic level. I was always the paranoid type when it comes to knowing if my computer was infected and so this class allows me to not only know what happens to a computer when it is infected with malware but also to help better secure devices for others.
 * Programming Languages
   * A class that introduces various programming languages (Haskell, JavaScript, TypeScript, C++, C#). I have always wanted to learn C++ as I have learned how to use C very early on in my academic career and found it to be solid programming language. I would like to expand on this language since I still learn new things about it to this day.
