@@ -57,7 +57,6 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 
 
 <br/>
-<br/>
 
 
 ## :chart_with_upwards_trend: My GitHub Stats
