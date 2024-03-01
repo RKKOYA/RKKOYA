@@ -9,7 +9,7 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 
 
 ## :handbag: Languages and Tools
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width=30px/>
 
 
 ## :book: What I'm Learning Right Now
