@@ -12,6 +12,8 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <a href="https://www.linkedin.com/in/ryankolano/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" align="left" width=50px/>
 <a/>
+
+  
 <br/>
 <br/>
 <br/>
@@ -40,6 +42,7 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" align="left" width=40px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" align="left" width=70px/>
 
+
 <br/>
 <br/>
 <br/>
@@ -51,6 +54,11 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 * Programming Languages
 * Enterprise Computing
 * Senior Design II
+
+
+<br/>
+<br/>
+
 
 ## :chart_with_upwards_trend: My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
