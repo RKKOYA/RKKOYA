@@ -14,6 +14,7 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" align="left" width=40px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" align="left" width=40px/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/haskell/haskell-original.svg" alt="Haskell" align="left" width=40px/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" align="left" width=40px/>
 
 <br/>
 <br/>
