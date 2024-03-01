@@ -31,7 +31,8 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="VSCode" align="left" width=40px/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Google_Colaboratory_SVG_Logo.svg" alt="Google Colab" align="left" width=40px/>
 
-
+<br/>
+<br/>
 <br/>
 <br/>
 
