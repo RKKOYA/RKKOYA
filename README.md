@@ -64,12 +64,11 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 
 ## :chart_with_upwards_trend: My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/anuraghazra/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ll-KOYA-ll&show_icons=true&theme=radical&count_private=true"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ll-KOYA-ll&show_icons=true&theme=radical&count_private=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll-KOYA-ll&layout=compact&theme=radical&count_private=true"/>
 </a>
 </a>
-
 
 <br/>
 
