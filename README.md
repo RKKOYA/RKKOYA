@@ -53,6 +53,7 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 * [NEAR FUTURE] **Matrix & Linear Algebra**
 * [NEAR FUTURE] **The Enjoyment of Music**
 
+
 * [DONE!] **Introduction to Malware Analysis & Reverse Engineering**
   * This introduces me to various tools that are used to analyze malware at a static/dynamic level. I was always the paranoid type when it comes to knowing if my computer was infected and so this class allows me to not only know what happens to a computer when it is infected with malware but also to help better secure devices for others.
 * [DONE!] **Programming Languages**
