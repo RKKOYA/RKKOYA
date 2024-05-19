@@ -49,9 +49,9 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 
 
 ## :book: What I'm Learning Right Now @ UCF
-* [NEAR FUTURE] **Discrete Structures II**
-* [NEAR FUTURE] **Matrix & Linear Algebra**
-* [NEAR FUTURE] **The Enjoyment of Music**
+* **Discrete Structures II**
+* **Matrix & Linear Algebra**
+* **The Enjoyment of Music**
 
 
 * [DONE!] **Introduction to Malware Analysis & Reverse Engineering**
