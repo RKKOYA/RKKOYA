@@ -47,12 +47,16 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <br/>
 <br/>
 
+## 🎊 GRADUATED SUMMER 2024 BS CS @ UCF!!
 
 ## :book: What I have learned at UCF
 
 * [DONE!] **Discrete Structures II**
+  * I have learned the foundations of computation and the theory behind it. I have always felt that this class would be very difficult and boring but it turns out that there is a lot going on in this area and is great to explore the limits of what computers can do.
 * [DONE!] **Matrix & Linear Algebra**
+  * This class allowed me to learn about how vectors and matrices can be pushed to solve complex problems and how they set up the foundations of AI. I never knew that just how much you can do with them and how much of an impact they can be.
 * [DONE!] **The Enjoyment of Music**
+  * The oddball for my semester but required regardless. I enjoyed understanding the fundamentals of music and its history over the years. I actually enjoyed understanding how and why music was praised back then and the influence they spread aroundt the world.
 
 * [DONE!] **Introduction to Malware Analysis & Reverse Engineering**
   * This introduces me to various tools that are used to analyze malware at a static/dynamic level. I was always the paranoid type when it comes to knowing if my computer was infected and so this class allows me to not only know what happens to a computer when it is infected with malware but also to help better secure devices for others.
