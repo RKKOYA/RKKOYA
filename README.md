@@ -48,11 +48,11 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 <br/>
 
 
-## :book: What I'm Learning Right Now @ UCF
-* **Discrete Structures II**
-* **Matrix & Linear Algebra**
-* **The Enjoyment of Music**
+## :book: What I have learned at UCF
 
+* [DONE!] **Discrete Structures II**
+* [DONE!] **Matrix & Linear Algebra**
+* [DONE!] **The Enjoyment of Music**
 
 * [DONE!] **Introduction to Malware Analysis & Reverse Engineering**
   * This introduces me to various tools that are used to analyze malware at a static/dynamic level. I was always the paranoid type when it comes to knowing if my computer was infected and so this class allows me to not only know what happens to a computer when it is infected with malware but also to help better secure devices for others.
