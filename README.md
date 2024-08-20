@@ -83,5 +83,5 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 
 <br/>
 
-## 📈: My LeetCode Stats
+## 📈 My LeetCode Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/RKOYA?theme=dark)
