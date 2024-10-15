@@ -4,8 +4,8 @@
 I am a recent computer science graduate at the University of Central Florida. Over the years, I
 have immersed myself in the ever-evolving landscape of technology, eagerly exploring emerging 
 trends and advancements. From attending student clubs to participating in projects, I've embraced 
-every opportunity to deepen my understanding and expand my skill set. I am currently interested in
-machine learning and cybersecurity and want to strive to become knowledgable in those fields. 
+every opportunity to deepen my understanding and expand my skill set. I am currently interested in becoming
+skilled in backend software engineering and embedded programming.
 
 ## :telephone_receiver: Let's Connect!
 <a href="https://www.linkedin.com/in/ryankolano/">
@@ -59,7 +59,7 @@ machine learning and cybersecurity and want to strive to become knowledgable in 
 * [DONE!] **Matrix & Linear Algebra**
   * This class allowed me to learn about how vectors and matrices can be pushed to solve complex problems and how they set up the foundations of AI. I never knew that just how much you can do with them and how much of an impact they can be.
 * [DONE!] **The Enjoyment of Music**
-  * The oddball for my semester but required regardless. I enjoyed understanding the fundamentals of music and its history over the years. I actually enjoyed understanding how and why music was praised back then and the influence they spread aroundt the world.
+  * The oddball for my semester but required regardless. I enjoyed understanding the fundamentals of music and its history over the years. I actually enjoyed understanding how and why music was praised back then and the influence they spread around the world.
 
 * [DONE!] **Introduction to Malware Analysis & Reverse Engineering**
   * This introduces me to various tools that are used to analyze malware at a static/dynamic level. I was always the paranoid type when it comes to knowing if my computer was infected and so this class allows me to not only know what happens to a computer when it is infected with malware but also to help better secure devices for others.
