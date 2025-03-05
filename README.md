@@ -77,8 +77,8 @@ skilled in backend software engineering and embedded programming.
 ## :chart_with_upwards_trend: My GitHub Stats
 <a href="https://github.com/anuraghazra/github-readme-stats">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ll-KOYA-ll&show_icons=true&theme=radical&count_private=true"/>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ll-KOYA-ll&layout=compact&theme=radical&count_private=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RKKOYA&show_icons=true&theme=radical&count_private=true"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RKKOYA&layout=compact&theme=radical&count_private=true"/>
 </a>
 </a>
 
