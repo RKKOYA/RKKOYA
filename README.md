@@ -85,4 +85,4 @@ skilled in backend software engineering and embedded programming.
 <br/>
 
 ## 📈 My LeetCode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/RKOYA?theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/RKOYA?theme=catppuccinMocha&font=Frank%20Ruhl%20Libre)
